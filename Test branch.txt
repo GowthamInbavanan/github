@@ -3,3 +3,5 @@ Hi This is Gowtham
 I am in section 6 called Revert a commit and this is for test
 
 edit
+
+Added new line
